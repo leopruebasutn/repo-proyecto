@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de datos pesados
+*.xlsx
+*.xls
+*.zip
+
+# Logs
+*.log
+
+# Tokens y credenciales (NUNCA subir al repo)
+.env
+*.token
+secrets.txt
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
